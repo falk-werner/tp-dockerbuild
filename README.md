@@ -1,10 +1,12 @@
 # tp-dockerbuild
+
 Build WAGO TP image using docker.
+Please refer to [https://github.com/WAGO/tp-firmware-sdk](https://github.com/WAGO/tp-firmware-sdk) for more information.
 
 ## Prerequisites
 
 Make sure that docker is installed on the host system.
-To install docjer, please refer to the installation instructions available at the docker homepage:  
+To install docker, please refer to the installation instructions available at the docker homepage:  
 [https://docs.docker.com/engine/install/](https://docs.docker.com/engine/install/)
 
 ## Build Docker Image
